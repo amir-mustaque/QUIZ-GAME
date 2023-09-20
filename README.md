@@ -1,1 +1,1 @@
-# QUIZ-GAME
+# QUIZ-GAME using c language
